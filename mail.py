@@ -9,7 +9,6 @@ from email.mime.multipart import MIMEMultipart
 
 from datetime import datetime
 from datetime import timedelta
-import calendar
 
 locale.setlocale(locale.LC_ALL, 'pt_br.UTF-8')
 today = datetime.today()
